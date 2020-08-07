@@ -1,0 +1,5 @@
+2 Fever 2 5 2017 3 30 0 2 1000 
+3 Chest_Pain 3 8 2017 8 30 0 4 2000 
+4 Broken_Arm 4 5 2017 3 30 0 3 1500 
+7 Viral_Infection 3 8 2017 7 45 0 2 4000
+8 Knee_Pain 21 4 2018 3 30 0 3 2500
