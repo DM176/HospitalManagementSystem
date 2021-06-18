@@ -1,1 +1,3 @@
-I have made a simple hospital management system in c++.
+This project was made in C++ with standard Object Oriented Practices used. The database for this system was files.
+This project was given to me for my course project of Object Oriented Analysis and Design.
+IT had features like reserving appointment of doctor with patient, add doctor, add patient and maintaining records of all.
